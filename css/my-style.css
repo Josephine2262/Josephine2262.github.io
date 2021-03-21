@@ -1,10 +1,10 @@
 html {
-  background-color: #f5f7f9;
+  background-color: #f5f5dc;
 }
 
 body {
-  background: none;
-  color: #69707a;
+  background: beige;
+  color: #1b1e66;
   font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -13,8 +13,8 @@ strong {
 }
 
 .navbar {
-  background: #e16879;
-  color: blue;
+  background: #1b1e66;
+  color: darkblue;
 }
 
 .btn {
@@ -63,3 +63,16 @@ strong {
 .h4{
   font-weight: bold;
 }
+
+.whitecolor {
+  color: white!important;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: large;
+}
+
+.home {
+  color: white!important;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: medium;
+}
+
