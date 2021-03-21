@@ -1,0 +1,78 @@
+html {
+  background-color: none;
+}
+
+body {
+  background: beige;
+  color: #69708a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: white;
+}
+
+.navbar {
+  background: #e16879;
+  color: white!important;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: darkblue;
+  border-color: darkblue;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #e16879!important;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
+
+.jumbotron {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/5a/Books_HD_%288314929977%29.jpg");
+  background-size: cover;
+  color: white;
+}
+.navbark {
+  color: darkblue!important;
+}
+
+.primary {
+  color: green;
+}
+
+.nav-link {
+  color: white!important;
+}
+
+
+
+.darkcolor{
+  color: darkblue!important;
+}
+
+
